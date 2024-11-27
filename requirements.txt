@@ -1,0 +1,6 @@
+numpy>=1.26.0
+matplotlib>=3.8.0
+pedalboard>=0.7.7
+sounddevice>=0.4.6
+soundfile>=0.12.1
+scipy>=1.11.3
